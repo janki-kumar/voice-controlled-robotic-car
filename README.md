@@ -23,13 +23,15 @@ Voice commands are converted into control instructions, which are then processed
 ## Hardware Components
 
 - Robotic car chassis
-- DC geared motors
-- Wheels
-- Motor driver
-- Controller board
-- Wireless communication module
-- Connecting wires
-- Power supply/battery
+- Arduino Uno
+- L298N Motor Driver
+- HC-05 Bluetooth Module
+- DC Gear Motors (4)
+- Robot Car Chassis
+- Wheels (4)
+- Battery / Battery Pack
+- Jumper Wires
+- Power Switch
 
 ## Working Principle
 
